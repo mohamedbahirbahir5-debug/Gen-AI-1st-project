@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Roadmap & Skill Gap Finder",
+  "description": "Analyze your current technical skills against target tech careers, uncover skill gaps, follow a personalized 8-week learning roadmap, build portfolio projects, and export PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
